@@ -42,7 +42,10 @@ Link to project: https://docs.google.com/spreadsheets/d/1q-tobjJi3J30lPLqDMVXuJ8
 Applied test design techniques such as equivalence partitioning, boundary value analysis, and decision tables.
 
 Link to project:https://docs.google.com/document/d/1VuFkqG-rcMIYCatsofmyhDm8SmiOpb94/edit?usp=sharing&ouid=100712655568786235082&rtpof=true&sd=true
+
 https://drive.google.com/file/d/1LQhB5bu47Vl-ECYJWzT-ohn-N9qvTCFy/view?usp=drive_link
+
+https://drive.google.com/file/d/11lRMxgKZbMrRmtTddI3aUxJuE-F2JtQt/view?usp=sharing
 
 ## Sprint 3: Web Application Testing
 Tested a web application using requirements, checklists, test cases, and bug reports. Reported defects clearly using Jira.
