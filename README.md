@@ -35,6 +35,7 @@ I am transitioning into Quality Assurance Engineering, where I can combine analy
 # QA Portfolio Projects
 ## Sprint 1: Theory of Testing
 Created test documentation based on software requirements, including test scenarios, checklists, and bug reports.
+
 Link to project: https://docs.google.com/spreadsheets/d/1q-tobjJi3J30lPLqDMVXuJ822msnEfCG/edit?usp=sharing&ouid=100712655568786235082&rtpof=true&sd=true
 
 ## Sprint 2: Test Design
