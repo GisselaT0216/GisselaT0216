@@ -35,7 +35,7 @@ I am transitioning into Quality Assurance Engineering, where I can combine analy
 # QA Portfolio Projects
 ## Sprint 1: Theory of Testing
 Created test documentation based on software requirements, including test scenarios, checklists, and bug reports.
-https://docs.google.com/spreadsheets/d/1q-tobjJi3J30lPLqDMVXuJ822msnEfCG/edit?usp=sharing&ouid=100712655568786235082&rtpof=true&sd=true
+link to project: https://docs.google.com/spreadsheets/d/1q-tobjJi3J30lPLqDMVXuJ822msnEfCG/edit?usp=sharing&ouid=100712655568786235082&rtpof=true&sd=true
 
 ## Sprint 2: Test Design
 Applied test design techniques such as equivalence partitioning, boundary value analysis, and decision tables.
@@ -43,8 +43,7 @@ Applied test design techniques such as equivalence partitioning, boundary value 
 Tested a web application using requirements, checklists, test cases, and bug reports. Reported defects clearly using Jira.
 ## Sprint 4: API Testing
 Tested API endpoints using Postman. Validated requests, responses, status codes, and JSON body data.
-## Sprint 5: Mobile Application Testing
-Tested a mobile application using Android Studio and mobile testing techniques. Documented issues and created clear bug reports.
+
 
 ## What I Am Looking For
 I am looking for opportunities as a Junior QA Engineer, Manual Tester, or Software Tester where I can continue developing my skills and contribute to high-quality software products.
